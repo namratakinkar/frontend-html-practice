@@ -1,0 +1,79 @@
+# Frontend HTML Practice
+
+This repository contains my HTML learning and practice work. I am learning frontend development step by step and practicing different HTML concepts with practical examples.
+
+## 📌 About This Project
+
+The purpose of this repository is to understand HTML concepts through hands-on practice and improve my frontend development skills.
+
+## 📂 Files Included
+
+### 1. `1_ordered_list.html`
+Practice of HTML Ordered Lists.
+
+Topics covered:
+- Number List
+- Capital Letter List
+- Small Letter List
+- Roman Capital List
+- Roman Small List
+- HTML list items
+
+### 2. `2_unordered_list.html`
+Practice of HTML Unordered Lists.
+
+### 3. `3_nested_unordered.html`
+Practice of Nested Unordered Lists.
+
+### 4. `4_nested_ordered.html`
+Practice of Nested Ordered Lists.
+
+## 📚 HTML Concepts Practiced
+
+- HTML Headings (`h1` to `h6`)
+- Ordered Lists (`ol`)
+- Unordered Lists (`ul`)
+- List Items (`li`)
+- Ordered List Types
+- Nested Lists
+- HTML Basic Structure
+
+## 💻 Technologies Used
+
+- HTML5
+- Visual Studio Code
+- Git
+- GitHub
+
+## 🚀 How to Run This Project
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/namratakinkar/frontend-html-practice.git
+   ```
+
+2. Open the project folder in Visual Studio Code.
+
+3. Select any HTML file.
+
+4. Right-click and select **Open with Live Server** (if installed), or open the HTML file directly in your web browser.
+
+## 🎯 Learning Objectives
+
+- Understand HTML fundamentals.
+- Learn different types of HTML lists.
+- Practice nested lists.
+- Improve frontend development skills.
+- Learn Git and GitHub for project management.
+- Maintain a collection of practical coding examples.
+
+## 📈 Project Status
+
+Currently learning and practicing HTML concepts. More frontend topics and practical examples will be added as I continue learning.
+
+---
+
+**Thank You for Visiting My Repository!**
+
+Happy Coding! 🚀
